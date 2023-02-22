@@ -106,6 +106,7 @@ a:active { text-decoration: none; }
     align-items: center;
     justify-content: center;
     height: 35rem;
+    padding: 0 10%;
 }
 
 .info--title {
@@ -138,15 +139,17 @@ a:active { text-decoration: none; }
 .info--card--subtext {
     text-align: center;
     font-size: 1.5rem;
+    color:#062025 ;
 }
 
 .quote--container {
-    background-color: #5c5c5c;
+    background-color: #1F2937;
     height: 15rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: flex-end;
+    padding: 0 10%;
 }
 
 .quote--text {
@@ -168,13 +171,13 @@ a:active { text-decoration: none; }
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 2%;
+    padding: 2.5% 10%;
 }
 
 .call--bluebox {
     display: flex;
     flex-direction: row;
-    width: 50%;
+    width: 75rem;
     padding: 2rem;
     background-color: #385258;;
     border-radius: 1rem;
@@ -199,9 +202,9 @@ a:active { text-decoration: none; }
 
 .call--sign--button {
     border: 0;
-    border-radius: 1rem;
+    border-radius: 1rem;    
     width: 15rem;
-    margin-left: 15%;
+    margin-left: 42%;
     background-color: #23b0c9;
 }
 
@@ -209,5 +212,6 @@ a:active { text-decoration: none; }
     padding: 1rem;
     color: white;
     text-align: center;
+    padding: 2% 10%;
 }
 
